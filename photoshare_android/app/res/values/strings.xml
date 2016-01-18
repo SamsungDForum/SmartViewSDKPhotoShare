@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MSF2 PhotoShare</string>
+    <string name="discover">Scan for TVs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="img_desc">image</string>
+
+    <string name="web_launcher_err">Could not get web launcher instance. Check the selected service.</string>
+    <string name="photoshare_launch_err">Could not launch the PhotoShare service.</string>
+    <string name="photoshare_channel_err">Could not connect to the PhotoShare channel. Check that the PhotoShare service is running.</string>
+</resources>

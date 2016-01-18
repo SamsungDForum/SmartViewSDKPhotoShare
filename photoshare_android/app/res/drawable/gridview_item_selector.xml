@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:exitFadeDuration="@integer/veryShortAnimTime" >
+    <item android:state_pressed="true" android:state_selected="false" android:drawable="@drawable/item_select_dark_transparent" />
+    <item android:drawable="@android:color/transparent" />
+</selector>

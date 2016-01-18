@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ProgressBar
+        android:id="@+id/refreshing"
+        style="@android:style/Widget.ProgressBar"
+        android:minHeight="26dp"
+        android:maxHeight="26dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_centerInParent="true" 
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" 
+        android:visibility="visible" />
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="item_select_dark_transparent">#3f000000</drawable>
+    <drawable name="item_select_light_transparent">#3fffffff</drawable>
+    <drawable name="item_select_gray_transparent">#7fafafaf</drawable>
+</resources>
