@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="17854000020827" >
+
+    <task
+        name="javac"
+        duration="3260" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="541" />
+    <task
+        name="verifier"
+        duration="165" />
+
+    <artifact
+        location="G:\workspace\SmartViewSDKPhotoShare-master\SmartViewSDKPhotoShare-master\Photo-Share\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="17854000020827" >
+        <artifact
+            location="G:\workspace\SmartViewSDKPhotoShare-master\SmartViewSDKPhotoShare-master\Photo-Share\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

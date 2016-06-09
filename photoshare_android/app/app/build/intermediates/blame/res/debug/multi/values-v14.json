@@ -1,0 +1,1144 @@
+[
+    {
+        "outputFile": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 131,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 138,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 125,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 132,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 132,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 139,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 132,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 139,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 137,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 144,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 131,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 138,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 138,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1125,
+                        "endColumn": 145,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 138,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 145,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 130,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1419,
+                        "endColumn": 137,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 138,
+                    "endOffset": 1703
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 145,
+                        "endOffset": 1699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1708,
+                    "endColumn": 154,
+                    "endOffset": 1858
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1705,
+                        "endColumn": 161,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1863,
+                    "endColumn": 132,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1868,
+                        "endColumn": 139,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1996,
+                    "endColumn": 148,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2009,
+                        "endColumn": 155,
+                        "endOffset": 2160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endColumn": 140,
+                    "endOffset": 2281
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2166,
+                        "endColumn": 147,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2286,
+                    "endColumn": 156,
+                    "endOffset": 2438
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2315,
+                        "endColumn": 163,
+                        "endOffset": 2474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2443,
+                    "endColumn": 134,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2480,
+                        "endColumn": 141,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endColumn": 150,
+                    "endOffset": 2724
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2623,
+                        "endColumn": 157,
+                        "endOffset": 2776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2729,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3008,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 107,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4643,
+                        "endColumn": 108,
+                        "endOffset": 4747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4753,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 6419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 7783
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6425,
+                        "endLine": 117,
+                        "endColumn": 12,
+                        "endOffset": 8066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7788,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 9474
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 8072,
+                        "endLine": 142,
+                        "endColumn": 12,
+                        "endOffset": 9758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 9479,
+                    "endColumn": 119,
+                    "endOffset": 9594
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 9764,
+                        "endColumn": 120,
+                        "endOffset": 9880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9599,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 11277
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 9886,
+                        "endLine": 169,
+                        "endColumn": 12,
+                        "endOffset": 11564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 11282,
+                    "endColumn": 90,
+                    "endOffset": 11368
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 11796,
+                        "endColumn": 97,
+                        "endOffset": 11889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 11373,
+                    "endColumn": 102,
+                    "endOffset": 11471
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 11895,
+                        "endColumn": 109,
+                        "endOffset": 12000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 11476,
+                    "endColumn": 104,
+                    "endOffset": 11576
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 12006,
+                        "endColumn": 111,
+                        "endOffset": 12113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 11581,
+                    "endColumn": 106,
+                    "endOffset": 11683
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 12119,
+                        "endColumn": 113,
+                        "endOffset": 12228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 11688,
+                    "endColumn": 106,
+                    "endOffset": 11790
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 12234,
+                        "endColumn": 113,
+                        "endOffset": 12343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 11795,
+                    "endColumn": 96,
+                    "endOffset": 11887
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 12349,
+                        "endColumn": 103,
+                        "endOffset": 12448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 11892,
+                    "endColumn": 116,
+                    "endOffset": 12004
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 12454,
+                        "endColumn": 123,
+                        "endOffset": 12573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 12009,
+                    "endColumn": 114,
+                    "endOffset": 12119
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 12579,
+                        "endColumn": 121,
+                        "endOffset": 12696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 12124,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12517
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 12702,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 13095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12522,
+                    "endColumn": 112,
+                    "endOffset": 12630
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 13101,
+                        "endColumn": 113,
+                        "endOffset": 13210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12635,
+                    "endColumn": 102,
+                    "endOffset": 12733
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 13216,
+                        "endColumn": 109,
+                        "endOffset": 13321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12738,
+                    "endColumn": 106,
+                    "endOffset": 12840
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 13327,
+                        "endColumn": 107,
+                        "endOffset": 13430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12845,
+                    "endColumn": 93,
+                    "endOffset": 12934
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 13436,
+                        "endColumn": 94,
+                        "endOffset": 13526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12939,
+                    "endColumn": 90,
+                    "endOffset": 13025
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 13532,
+                        "endColumn": 97,
+                        "endOffset": 13625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 13030,
+                    "endColumn": 86,
+                    "endOffset": 13112
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 13631,
+                        "endColumn": 87,
+                        "endOffset": 13714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 13117,
+                    "endColumn": 102,
+                    "endOffset": 13215
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 13720,
+                        "endColumn": 109,
+                        "endOffset": 13825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 13220,
+                    "endColumn": 114,
+                    "endOffset": 13330
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 13831,
+                        "endColumn": 121,
+                        "endOffset": 13948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 13335,
+                    "endColumn": 130,
+                    "endOffset": 13461
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 13954,
+                        "endColumn": 137,
+                        "endOffset": 14087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 13466,
+                    "endColumn": 116,
+                    "endOffset": 13578
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 14093,
+                        "endColumn": 123,
+                        "endOffset": 14212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 13583,
+                    "endColumn": 132,
+                    "endOffset": 13711
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 14218,
+                        "endColumn": 139,
+                        "endOffset": 14353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13716,
+                    "endColumn": 118,
+                    "endOffset": 13830
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 14359,
+                        "endColumn": 125,
+                        "endOffset": 14480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13835,
+                    "endColumn": 134,
+                    "endOffset": 13965
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 14486,
+                        "endColumn": 141,
+                        "endOffset": 14623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13970,
+                    "endColumn": 118,
+                    "endOffset": 14084
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 14629,
+                        "endColumn": 125,
+                        "endOffset": 14750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 14089,
+                    "endColumn": 134,
+                    "endOffset": 14219
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 14756,
+                        "endColumn": 141,
+                        "endOffset": 14893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 14224,
+                    "endColumn": 108,
+                    "endOffset": 14328
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 14899,
+                        "endColumn": 115,
+                        "endOffset": 15010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 14333,
+                    "endColumn": 128,
+                    "endOffset": 14457
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 15016,
+                        "endColumn": 135,
+                        "endOffset": 15147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 14462,
+                    "endColumn": 126,
+                    "endOffset": 14584
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 15153,
+                        "endColumn": 133,
+                        "endOffset": 15282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 14589,
+                    "endColumn": 120,
+                    "endOffset": 14705
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 15288,
+                        "endColumn": 127,
+                        "endOffset": 15411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 14710,
+                    "endColumn": 124,
+                    "endOffset": 14830
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 15417,
+                        "endColumn": 125,
+                        "endOffset": 15538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14835,
+                    "endColumn": 114,
+                    "endOffset": 14945
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 15544,
+                        "endColumn": 121,
+                        "endOffset": 15661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14950,
+                    "endColumn": 112,
+                    "endOffset": 15058
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 15667,
+                        "endColumn": 113,
+                        "endOffset": 15776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 15063,
+                    "endColumn": 102,
+                    "endOffset": 15161
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 15782,
+                        "endColumn": 109,
+                        "endOffset": 15887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 15166,
+                    "endColumn": 98,
+                    "endOffset": 15260
+                },
+                "from": {
+                    "file": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 15893,
+                        "endColumn": 99,
+                        "endOffset": 15988
+                    }
+                }
+            }
+        ]
+    }
+]

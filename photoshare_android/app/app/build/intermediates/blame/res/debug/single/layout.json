@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\refresh.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_image.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\fragment_image.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gridview.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\workspace\\SmartViewSDKPhotoShare-master\\SmartViewSDKPhotoShare-master\\Photo-Share\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    }
+]
