@@ -6,7 +6,7 @@ Smart View SDK Reference app to Photo share
 
 
 
-## How to import android studio
+## How to import project in Android Studio
 
 1.Select "import project(Eclipse ADT,Gradle,etc..)
 2.Choose "app" folder
@@ -14,7 +14,7 @@ Smart View SDK Reference app to Photo share
 4.Open build.gradle and put provided 'org.projectlombok:lombok:1.14.8' in dependencies.
 5.Build & run
 
-## How To Connect TV and Share Phot
+## How To Connect TV and Share Photo with TV
 
 1. Launch PhotoShare app
 2. Connect TV from the TV list.
