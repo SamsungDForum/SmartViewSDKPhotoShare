@@ -1,3 +1,5 @@
+# SmartViewSDK PhotoShare Sample App #
+
 ##Prerequisite
 
 
@@ -5,7 +7,7 @@
 ###1. Library
 1. [SmartView SDK iOS framework](http://www.samsungdforum.com/AddLibrary/SmartViewDownload):  iOS Package(Mobile)
 
-add smartview.framework
+	add smartview.framework
 
 
 ###2. Build Environment
@@ -16,19 +18,24 @@ add smartview.framework
 ###3. Recommendation for  iOS framework
 1. This sample app includes SmartView SDK with
 2. iphoneos+iphonesimulator library: works on devices and simulator( + i386,x86_64)
-> ** Apple App Store will reject your app  when you register your app with iphoneos+iphonesimulator framework.
-> So, you should change iphoneos framework finally when you develop iphoneos+iphonesimulator framework, 
-> or you should  remove manually that unused architectures from the final binary.
-> refer to : [Stripping Unwanted Architectures From Dynamic Libraries In Xcode](http://ikennd.ac/blog/2015/02/stripping-unwanted-architectures-from-dynamic-libraries-in-xcode/)**
 
-## Discover : Search devices around your mobile.
+ ***Note**: Apple App Store will reject your app  when you register your app with iphoneos+iphonesimulator framework.
+ So, you should change iphoneos framework finally when you develop iphoneos+iphonesimulator framework, 
+ or you should  remove manually that unused architectures from the final binary.
+ refer to : [Stripping Unwanted Architectures From Dynamic Libraries In Xcode](http://ikennd.ac/blog/2015/02/stripping-unwanted-architectures-from-dynamic-libraries-in-xcode/)*
+ 
+###4. Discover : Search devices around your mobile
 1. Pressing 'Cast' button in ActionBar, must start search API [search.start()].
 2. Populate device list by overriding onFound() & onLost() listeners.
 3. Stop device discovery, by calling stop search API [search.stop()].
 
-	PhotoShareController.swift
-	
+### 5.Code Snippet with Examples:
 
+	
+```swift
+
+	// Inside PhotoShareController.swift file
+	
          var app: Application?
          static var sharedInstance = PhotoShareController()
          let search = Service.search()
@@ -65,10 +72,11 @@ add smartview.framework
 			}
 		}
 
+```
 
-##  launch a TV application.
+##  Launch TV application.
 
-
+```swift
 
     func connect(_ service: Service) {
 
@@ -125,4 +133,4 @@ add smartview.framework
          })
         }
 
-
+```
