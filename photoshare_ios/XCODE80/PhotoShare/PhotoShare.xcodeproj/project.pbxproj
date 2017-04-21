@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		90F72D641DAE44B600479D70 /* SmartView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90F72D621DAE44AF00479D70 /* SmartView.framework */; };
-		90F72D651DAE44B600479D70 /* SmartView.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 90F72D621DAE44AF00479D70 /* SmartView.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		9A119EF11CF459FB002AF90E /* PhotoCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A119EF01CF459FB002AF90E /* PhotoCollectionView.swift */; };
 		9A119EF81CF56FF4002AF90E /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A119EF71CF56FF4002AF90E /* PhotoCell.swift */; };
 		9A119EFA1CF5AEAB002AF90E /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A119EF91CF5AEAB002AF90E /* Media.swift */; };
@@ -37,7 +35,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				90F72D651DAE44B600479D70 /* SmartView.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -45,7 +42,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		90F72D621DAE44AF00479D70 /* SmartView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SmartView.framework; sourceTree = "<group>"; };
 		9A119EF01CF459FB002AF90E /* PhotoCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCollectionView.swift; sourceTree = "<group>"; };
 		9A119EF71CF56FF4002AF90E /* PhotoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		9A119EF91CF5AEAB002AF90E /* Media.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
@@ -74,7 +70,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90F72D641DAE44B600479D70 /* SmartView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,7 +79,6 @@
 		9AA8E74A1CD728C100FF0395 = {
 			isa = PBXGroup;
 			children = (
-				90F72D621DAE44AF00479D70 /* SmartView.framework */,
 				9AAC6C361CF6C2DB00CA1B30 /* Images */,
 				9AA8E7551CD728C100FF0395 /* PhotoShare */,
 				9AA8E7541CD728C100FF0395 /* Products */,
@@ -168,6 +162,7 @@
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 9BA8G3LBM6;
 						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -339,7 +334,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: HYOJAE LEE (L6J4NPG367)";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: HYOJAE LEE (L6J4NPG367)";
-				DEVELOPMENT_TEAM = 9BA8G3LBM6;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -349,8 +345,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.samsung.smartview2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "27ff4e81-57bd-45bd-b723-325bfa1bcbda";
-				PROVISIONING_PROFILE_SPECIFIER = Smartview_dev_wildcard;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -360,7 +356,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: HYOJAE LEE (L6J4NPG367)";
-				DEVELOPMENT_TEAM = 9BA8G3LBM6;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -370,8 +367,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.samsung.smartview2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "27ff4e81-57bd-45bd-b723-325bfa1bcbda";
-				PROVISIONING_PROFILE_SPECIFIER = Smartview_dev_wildcard;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;

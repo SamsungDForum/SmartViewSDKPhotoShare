@@ -129,7 +129,7 @@ class PhotoShareController: NSObject, ServiceSearchDelegate, ChannelDelegate{
     {
         if (error != nil) {
             search.start()
-            print(error?.localizedDescription)
+            print(error?.localizedDescription ?? "None")
         }
         isConnecting = false
         isConnected = true
